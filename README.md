@@ -1,6 +1,7 @@
 
 
 Unofficial configuration of the "Fuji" KSP mod (originally by Beale and maintained by Well) for Realism Overhaul/Kerbalism
+
 Thanks to NathanKell for helping with the RealChute config
 
 =======================================
