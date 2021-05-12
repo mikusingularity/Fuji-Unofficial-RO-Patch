@@ -8,7 +8,8 @@ Thanks to NathanKell for helping with the RealChute config
 
 Installation instructions:
 
-(01) This mod requires the Fuji and Realism Overhaul mods.
+(01) 
+- This mod requires the Fuji and Realism Overhaul mods.
 
 	https://forum.kerbalspaceprogram.com/index.php?/topic/188488-1111-fuji-12/
 	
