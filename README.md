@@ -9,6 +9,7 @@ Installation instructions:
 (01) This mod requires the Fuji and Realism Overhaul mods.
 
 	https://forum.kerbalspaceprogram.com/index.php?/topic/188488-1111-fuji-12/
+	
 	https://forum.kerbalspaceprogram.com/index.php?/topic/155700-181-1101-realism-overhaul-v1301-03-april-2021/
 
 - ROSolar is required for the Fuji solar arrays to work.
